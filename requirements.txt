@@ -1,0 +1,14 @@
+# Satellite-image-from-google-earth-engine requirements
+# Usage: pip install -r requirements.txt
+
+ee
+geopandas
+shapely.geometry
+ipyleaflet
+os
+urllib.request
+zipfile
+rasterio
+matplotlib.pyplot
+numpy
+
